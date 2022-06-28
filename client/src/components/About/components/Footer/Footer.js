@@ -7,9 +7,9 @@ const Footer = () =>
          <div className="row">
             <div className="col-md-6 mt-md-0 mt-3">
                <h5 className="text-uppercase">Space</h5>
-               <p>Made with {"💖"} by <a style={{ textDecoration: 'none' }} href="mailto: team.space.793@gmail.com">Vinamra Mishra</a>
-                  {" | "}<a style={{ textDecoration: 'none' }} href="mailto: team.space.793@gmail.com">Rishika Raj</a>
-                  {" | "}<a style={{ textDecoration: 'none' }} href="mailto: team.space.793@gmail.com">Ratul Dawar</a>
+               <p>Made with {"💖"} by 
+                  <a style={{ textDecoration: 'none' }} href="arya.aman1508@gmail.com">Arya Aman</a>
+                  {" | "}<a style={{ textDecoration: 'none' }} href="dewansh.chandra@gmail.com">Dewansh Chandra</a>
                </p>
             </div>
 
