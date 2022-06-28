@@ -19,7 +19,7 @@
     <br />
     <a href="https://space-dun-one.vercel.app">Live Website</a>
   </h3>
-  <i>PS - Our cloud is permanenly closed due to cost issues if ou want to test our code compilation then please contact Ratul Dawar. </i>
+  <i>PS - Our cloud is permanenly closed due to cost issues if ou want to test our code compilation then please contact Arya Aman. </i>
 </div>
 
 
@@ -200,11 +200,7 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
 ### Team
-  - **Team Name** : PBX1
-  - **Team Members** : 
-      * [Ratul Dawar](https://github.com/RatulDawar)
-      * [Rishika Raj](https://github.com/Rishika-05)
-      * [Vinamra Mishra](https://github.com/Vinamra7)
+      * [Arya Aman](https://github.com/arya-aman)
 
 
 
