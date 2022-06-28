@@ -200,11 +200,7 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
 ### Team
-  - **Team Name** : PBX1
-  - **Team Members** : 
-      * [Ratul Dawar](https://github.com/RatulDawar)
-      * [Rishika Raj](https://github.com/Rishika-05)
-      * [Vinamra Mishra](https://github.com/Vinamra7)
+      * [Arya Aman](https://github.com/arya-aman)
 
 
 
