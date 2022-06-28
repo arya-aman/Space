@@ -19,7 +19,7 @@
     <br />
     <a href="https://space-dun-one.vercel.app">Live Website</a>
   </h3>
-  <i>PS - Our cloud is permanenly closed due to cost issues if ou want to test our code compilation then please contact Ratul Dawar. </i>
+  <i>PS - Our cloud is permanenly closed due to cost issues if ou want to test our code compilation then please contact Arya Aman. </i>
 </div>
 
 
